@@ -5,6 +5,13 @@ for i in fruits:
     # or
 for i in range(10):
     print(fruits)
+# --------------------------------------------------------------------------------
+# for loop
+s='Rahul'
+i=0
+for x in s:
+    print('character',i,'index',x)
+    i=i+1
 # -----------------------------------------------------------------------------------
 # dictionary (occurance)
 word=input('enter the word')
